@@ -36,12 +36,12 @@ Driven by curiosity and innovation, my interests include Materials Science, DFT,
             title="Google Scholar" 
             src="https://custom-icon-badges.demolab.com/badge/Google-8B31CE.svg?logo=googlescholar&style=for-the-badge&logoColor=white&labelColor=CE31C3"
         />
-    </a>
+        </a>
     <a href="https://github.com/israel-c-ribeiro?tab=followers">
         <img 
             alt="Followers" 
             title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/israel-c-ribeiro?color=0D1622&style=for-the-badge&logo=github&label=Followers&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/israel-c-ribeiro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white&cacheBuster=timestamp"
         />
     </a>
 </p>
