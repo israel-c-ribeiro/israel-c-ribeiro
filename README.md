@@ -8,6 +8,7 @@ I hold a Bachelor's Degree in Chemistry from the Federal University of São Joã
 
 Driven by curiosity and innovation, my interests include Materials Science, DFT, Solid-State Chemistry, Inorganic Physical Chemistry, Machine Learning, and Quantum Chemistry.
 
+---
 <p align="left">
     <a href="israelribeiroc7@gmail.com">
         <img 
@@ -41,78 +42,135 @@ Driven by curiosity and innovation, my interests include Materials Science, DFT,
 
 ---
 
-### 🤖 Languages and Chemistry Software
+## 🎓 Academic Background
+- **Ph.D. in Theoretical Physical Chemistry**  
+  _University of São Paulo (USP), São Carlos, Brazil_ (2020–2025)  
+  **Research Advisor**: Prof. Juarez L. F. Da Silva  
+  **Thesis**: Atomic-scale Investigations on the Passivation of Ultrathin Layers of 2D Hybrid Perovskites (2020–2025)  
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="60px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" 
-/>
-<img 
-    align="left" 
-    alt="VASP"
-    title="VASP" 
-    width="70px" 
-    style="padding-right: 10px;" 
-    src="https://www.vasp.at/images/logo.png" 
-/>
-<img 
-    align="left" 
-    alt="Quantum Espresso" 
-    title="Quantum Espresso"
-    width="100px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Quantum_ESPRESSO_logo.jpg/1200px-Quantum_ESPRESSO_logo.jpg" 
-/>
-<img 
-    align="left" 
-    alt="Gaussian" 
-    title="Gaussian"
-    width="100px" 
-    style="padding-right: 10px;" 
-    src="https://73182.fs1.hubspotusercontent-na1.net/hubfs/73182/2022/Gaussian%20logo%20with%20name.png" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+- **MBA in Data Science and Analytics**  
+  _University of São Paulo (USP), Brazil_ (2024–2026)  
 
+- **B.Sc. in Chemistry**  
+  _Federal University of São João del Rei (UFSJ), Brazil_ (2015–2020)  
+  **Research Advisor**: Prof. Horacio W. Alvez     
+  **Thesis**: Theoretical Investigation of GaN in the Haeckelita 8-4 Structure  
 
-<br/>
-<br/>
-<br/>
+---
 
-### 📊 Statistics
+## 🧪 Research Highlights
 
-<p>
+- **2D Perovskites**: Investigating the structural, energetic, and optoelectronic properties of ultrathin organic-inorganic hybrid perovskites through DFT simulations.  
+- **Passivation Studies**: Examining single-atom metal and organic cations passivation effects on perovskite surfaces to improve stability and efficiency.  
+- **Film Thickness Analysis**: Unveiling the relationship between perovskites thin film thickness and material properties for photovoltaic applications.  
+
+### 📰 Selected Publications
+1. **Impact of Thin Film Thickness on the Structural, Energetic, and Optoelectronic Properties of Two-Dimensional Perovskites**  
+   _Submitted to ACS Applied Energy Materials (2024)_  
+   DOI: [In progress](https://example.com)  
+   
+2. **Unveiling the Impact of Organic Cation Passivation on Two-Dimensional Perovskite Thin Films**  
+   _Applied Surface Science (2024)_  
+   DOI: [10.1016/j.apsusc.2024.161098](https://doi.org/10.1016/j.apsusc.2024.161098)  
+
+3. **Role of the Adsorption of Alkali Cations on Ultrathin Layers of Perovskites**  
+   _Journal of Physical Chemistry C (2023)_  
+   DOI: [10.1021/acs.jpcc.3c01894](https://doi.org/10.1021/acs.jpcc.3c01894)  
+
+4. **CaTiO3:ceEr3+:Yb3+ Upconversion from 980 nm to 1550 nm Excitation and its Potential as Cells Luminescent Probes**  
+   _Materials Chemistry and Physics (2019)_  
+   DOI: [10.1016/j.matchemphys.2018.11.018](https://doi.org/10.1016/j.matchemphys.2018.11.018) 
+
+_For a complete list of publications, visit my [Google Scholar](https://scholar.google.com/citations?hl=en&user=GQugll8AAAAJ)._  
+
+---
+
+## 🛠️ Technical Skills
+
+- **Programming & Data Analytics**  
   <img 
-    align="left" 
+    alt="Python" 
+    title="Python" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+    width="40px" 
+    style="margin-right: 10px;" 
+  />
+  <img 
+    alt="C" 
+    title="C Programming" 
+    src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" 
+    width="40px" 
+    style="margin-right: 10px;" 
+  />
+
+- **Computational Chemistry Tools**  
+  <img 
+    alt="VASP" 
+    title="VASP" 
+    src="https://www.vasp.at/images/logo.png" 
+    width="60px" 
+    style="margin-right: 10px;" 
+  />
+  <img 
+    alt="Quantum Espresso" 
+    title="Quantum Espresso" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Quantum_ESPRESSO_logo.jpg/1200px-Quantum_ESPRESSO_logo.jpg" 
+    width="70px" 
+    style="margin-right: 10px;" 
+  />
+  <img 
+    alt="Gaussian" 
+    title="Gaussian" 
+    src="https://73182.fs1.hubspotusercontent-na1.net/hubfs/73182/2022/Gaussian%20logo%20with%20name.png" 
+    width="70px" 
+    style="margin-right: 10px;" 
+  />
+
+- **Version Control & Collaboration**  
+  <img 
+    alt="Git" 
+    title="Git" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+    width="40px" 
+    style="margin-right: 10px;" 
+  />
+  <img 
+    alt="Overleaf" 
+    title="Overleaf" 
+    src="https://images.ctfassets.net/nrgyaltdicpt/6gsvc5Ogjmu04I4Miu0uGg/cb1d4391717d2ab8d5e42ede6fb0eef1/overleaf_wide_colour_light_bg.png" 
+    width="70px" 
+    style="margin-right: 10px;" 
+  />
+ 
+
+---
+
+## 📢 Talks & Conferences
+- _"Metal Halides Perovskites for Optoelectronic: from Fundamental to Devices"_  
+  **CNRS School, France** (2024) 
+- _"The Chemistry Beyond Haber–Bosch Process"_  
+  **PechaKucha Seminar, IFSC–USP** (2024)  
+- _"Surface Passivation in Perovskite Materials: Ab initio Investigations"_  
+  **CINE Conference** (2022)  
+- _"Energy Transfer from Tb3+ to Eu3+ in SiO2-TiO2"_  
+  **18th International Conference on Luminescence** (2017)  
+
+---
+
+## 📈 GitHub Statistics
+<p align="center">
+  <img 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=israel-c-ribeiro&show_icons=true&theme=highcontrast&include_all_commits=true&locale=en" 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=israel-c-ribeiro&show_icons=true&theme=gruvbox&include_all_commits=true&locale=en" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=israel-c-ribeiro&theme=highcontrast&layout=compact&custom_title=Technologies" 
+  <img 
+    alt="Top Languages" 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=israel-c-ribeiro&theme=gruvbox&layout=compact&custom_title=Languages&langs_count=9" 
   />
+</p> 
+---
 
-</p>
+
+
