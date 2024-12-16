@@ -77,7 +77,7 @@ Driven by curiosity and innovation, my interests include Materials Science, DFT,
    _Journal of Physical Chemistry C (2023)_  
    DOI: [10.1021/acs.jpcc.3c01894](https://doi.org/10.1021/acs.jpcc.3c01894)  
 
-4. **CaTiO3:ceEr3+:Yb3+ Upconversion from 980 nm to 1550 nm Excitation and its Potential as Cells Luminescent Probes**  
+4. **CaTiO3:Er3+:Yb3+ Upconversion from 980 nm to 1550 nm Excitation and its Potential as Cells Luminescent Probes**  
    _Materials Chemistry and Physics (2019)_  
    DOI: [10.1016/j.matchemphys.2018.11.018](https://doi.org/10.1016/j.matchemphys.2018.11.018) 
 
