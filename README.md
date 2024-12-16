@@ -1,12 +1,16 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://komarev.com/ghpvc/?username=israel-c-ribeiro&color=blue&style=flat-square" alt="Visitor count" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🖖🏾;+Welcome+to+my+page!;" />
 </h1>
 
-# Israel C. Ribeiro
+<!-- Centered Name -->
+<h1 align="center">Israel C. Ribeiro</h1>
 
-**`Ph.D in Physical-Chemistry | Computational Materials Science`**
+<!-- Centered Subtitle -->
+<p align="center">
+  <strong><code>Ph.D in Physical-Chemistry | Computational Materials Science</code></strong>
+</p>
 
 <details>
   <summary><strong>I'm passionate about...</strong><span style="color: red;">(click to expand)</span>
