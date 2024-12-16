@@ -120,14 +120,14 @@ _For a complete list of publications, visit my [Google Scholar](https://scholar.
   <img 
     alt="Quantum Espresso" 
     title="Quantum Espresso" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Quantum_ESPRESSO_logo.jpg/1200px-Quantum_ESPRESSO_logo.jpg" 
-    width="70px" 
+    src="https://www.quantum-espresso.org/wp-content/uploads/2022/03/quantum_ogo_ok.png" 
+    width="100px" 
     style="margin-right: 10px;" 
   />
   <img 
     alt="Gaussian" 
     title="Gaussian" 
-    src="https://73182.fs1.hubspotusercontent-na1.net/hubfs/73182/2022/Gaussian%20logo%20with%20name.png" 
+    src="https://software.sjtu.edu.cn/Assets/userfiles/images/Logo/Gaussian_logo_with_name-removebg-preview(1).png" 
     width="70px" 
     style="margin-right: 10px;" 
   />
