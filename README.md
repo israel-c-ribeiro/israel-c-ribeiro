@@ -45,16 +45,16 @@ Driven by curiosity and innovation, my interests include Materials Science, DFT,
 ## 🎓 Academic Background
 - **Ph.D. in Theoretical Physical Chemistry**  
   _University of São Paulo (USP), São Carlos, Brazil_ (2020–2025)  
+  **Thesis**: Atomic-scale Investigations on the Passivation of Ultrathin Layers of 2D Hybrid Perovskites (2020–2025)
   **Research Advisor**: Prof. Juarez L. F. Da Silva  
-  **Thesis**: Atomic-scale Investigations on the Passivation of Ultrathin Layers of 2D Hybrid Perovskites (2020–2025)  
 
 - **MBA in Data Science and Analytics**  
   _University of São Paulo (USP), Brazil_ (2024–2026)  
 
 - **B.Sc. in Chemistry**  
   _Federal University of São João del Rei (UFSJ), Brazil_ (2015–2020)  
-  **Research Advisor**: Prof. Horacio W. Alvez     
-  **Thesis**: Theoretical Investigation of GaN in the Haeckelita 8-4 Structure  
+  **Thesis**: Theoretical Investigation of GaN in the Haeckelita 8-4 Structure    
+  **Research Advisor**: Prof. Horacio W. Alvez  
 
 ---
 
@@ -150,8 +150,12 @@ _For a complete list of publications, visit my [Google Scholar](https://scholar.
   **CNRS School, France** (2024) 
 - _"The Chemistry Beyond Haber–Bosch Process"_  
   **PechaKucha Seminar, IFSC–USP** (2024)  
+- _"Impact of Organic Cation Passivation on Perovskites Thin Films"_  
+  **1st CMD-CINE Workshop** (2024) 
+- _"The Chemistry Behind the Synthesis of MAPbI3 Perovskites"_  
+  **QTNano Journal Club** (2024) 
 - _"Surface Passivation in Perovskite Materials: Ab initio Investigations"_  
-  **CINE Conference** (2022)  
+  **CINE Conference** (2023)  
 - _"Energy Transfer from Tb3+ to Eu3+ in SiO2-TiO2"_  
   **18th International Conference on Luminescence** (2017)  
 
