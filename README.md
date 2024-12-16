@@ -10,7 +10,7 @@ Driven by curiosity and innovation, my interests include Materials Science, DFT,
 
 ---
 <p align="left">
-    <a href="israelribeiroc7@gmail.com">
+    <a href="mailto:israelribeiroc7@gmail.com">
         <img 
             alt="gmail" 
             title="Contact me" 
