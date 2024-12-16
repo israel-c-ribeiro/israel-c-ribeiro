@@ -151,13 +151,13 @@ _For a complete list of publications, visit my [Google Scholar](https://scholar.
 - _"The Chemistry Beyond Haber–Bosch Process"_  
   **PechaKucha Seminar, IFSC–USP** (2024)  
 - _"Impact of Organic Cation Passivation on Perovskites Thin Films"_  
-  **1st CMD-CINE Workshop** (2024) 
+  **1st CMD-CINE Workshop, IQSC-USP** (2024) 
 - _"The Chemistry Behind the Synthesis of MAPbI3 Perovskites"_  
-  **QTNano Journal Club** (2024) 
+  **QTNano Journal Club, IQSC-USP** (2024) 
 - _"Surface Passivation in Perovskite Materials: Ab initio Investigations"_  
-  **CINE Conference** (2023)  
+  **CINE Conference, UNICAMP** (2023)  
 - _"Energy Transfer from Tb3+ to Eu3+ in SiO2-TiO2"_  
-  **18th International Conference on Luminescence** (2017)  
+  **18th International Conference on Luminescence, Brazil** (2017)  
 
 ---
 
