@@ -8,22 +8,32 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
+      - name: Ensure output directory exists
+        run: |
+          mkdir -p dist  # Cria o diretório dist caso não exista
+
       - name: Generate Snake Animation
         uses: Platane/snk@v2
         with:
-          github_user_name: israel-c-ribeiro  # Substitua pelo seu nome de usuário
-          outputs: dist/snake.svg
+          github_user_name: israel-c-ribeiro  # Substitua pelo seu nome de usuário no GitHub
+          outputs: dist/snake.svg  # Salva a animação no diretório dist
+
+      - name: Debugging - List files
+        run: |
+          echo "Listing files in the repository:"
+          ls -la dist  # Lista arquivos no diretório dist para verificar se o snake.svg foi gerado
 
       - name: Commit and Push SVG file
         run: |
-          git config --global user.name "Your Name"
-          git config --global user.email "your-email@example.com"
-          git add dist/snake.svg
-          git commit -m "Update snake SVG"
-          git push origin output
+          git config --global user.name "Your Name"  # Substitua com seu nome
+          git config --global user.email "your-email@example.com"  # Substitua com seu e-mail
+          git add dist/snake.svg  # Adiciona o arquivo SVG gerado
+          git commit -m "Update snake SVG"  # Comita o novo arquivo
+          git push origin output  # Faz o push para o branch de saída
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Usando o token de autenticação para o push
