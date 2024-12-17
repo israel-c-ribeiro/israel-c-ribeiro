@@ -247,9 +247,11 @@ _To download the presentations, visit my [ResearchGate](https://www.researchgate
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/israel-c-ribeiro/main/assets/snake.svg" />
-  <br/><br/><br/>
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/israel-c-ribeiro/israel-c-ribeiro/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/israel-c-ribeiro/israel-c-ribeiro/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/israel-c-ribeiro/israel-c-ribeiro/output/github-snake.svg" />
+</picture>
 </div>
 <hr/>
 
