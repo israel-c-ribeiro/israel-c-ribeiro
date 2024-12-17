@@ -131,7 +131,7 @@ _For a complete list of publications, visit my [Google Scholar](https://scholar.
 
 ---
 
-<h2>Industry Experience</h2>
+<h2>👨🏾‍🔬 Industry Experience</h2>
 
 <!-- AMG Brazil -->
 <h3>AMG Brazil</h3>
