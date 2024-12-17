@@ -90,24 +90,70 @@ Driven by curiosity and innovation, my interests include Materials Science, DFT,
 
 ### 📰 Selected Publications
 1. **Impact of Thin Film Thickness on the Structural, Energetic, and Optoelectronic Properties of Two-Dimensional Perovskites**  
-   _Submitted to ACS Applied Energy Materials (2024)_  
-   DOI: [In progress](https://example.com)  
+   _Submitted to ACS Applied Energy Materials (2024)_    
+    Authors: **Israel C. Ribeiro**, FD Picoli, PIV Moraes, AFV Fonseca, LN Oliveira, AF Nogueira and JLF Da Silva.       
+      DOI: [In progress](https://example.com)  
    
-2. **Unveiling the Impact of Organic Cation Passivation on Two-Dimensional Perovskite Thin Films**  
-   _Applied Surface Science (2024)_  
-   DOI: [10.1016/j.apsusc.2024.161098](https://doi.org/10.1016/j.apsusc.2024.161098)  
+2. **Unveiling the Impact of Organic Cation Passivation on Structural and Optoelectronic Properties of Two-Dimensional Perovskites Thin Films**  
+   _Applied Surface Science (2024)_      
+     Authors: **Israel C. Ribeiro**, PIR Moraes, AFB Bittencourt and JLF Da Silva.         
+        DOI: [10.1016/j.apsusc.2024.161098](https://doi.org/10.1016/j.apsusc.2024.161098)  
 
-3. **Role of the Adsorption of Alkali Cations on Ultrathin Layers of Perovskites**  
-   _Journal of Physical Chemistry C (2023)_  
-   DOI: [10.1021/acs.jpcc.3c01894](https://doi.org/10.1021/acs.jpcc.3c01894)  
+3. **Role of the Adsorption of Alkali Cations on Ultrathin n-Layers of Two-Dimensional Perovskites**       
+   _Journal of Physical Chemistry C (2023)_        
+   Authors: **Israel C. Ribeiro**, PIR Moraes, AFB Bittencourt and JLF Da Silva.         
+   DOI: [10.1021/acs.jpcc.3c01894](https://doi.org/10.1021/acs.jpcc.3c01894)      
 
 4. **CaTiO3:Er3+:Yb3+ Upconversion from 980 nm to 1550 nm Excitation and its Potential as Cells Luminescent Probes**  
-   _Materials Chemistry and Physics (2019)_  
+   _Materials Chemistry and Physics (2019)_                       
+   Authors: RV Perrella, **Israel C. Ribeiro**, PHA Campos-Junior, MA Schiavon, E Pecoraro, SJL Ribeiro and JL Ferrari.                    
    DOI: [10.1016/j.matchemphys.2018.11.018](https://doi.org/10.1016/j.matchemphys.2018.11.018) 
 
 _For a complete list of publications, visit my [Google Scholar](https://scholar.google.com/citations?hl=en&user=GQugll8AAAAJ)._  
 
 ---
+
+## 📢 Talks & Conferences
+- _"Metal Halides Perovskites for Optoelectronic: from Fundamental to Devices"_  
+  **CNRS School, France** (2024) 
+- _"The Chemistry Beyond Haber–Bosch Process"_  
+  **PechaKucha Seminar, IFSC–USP** (2024)  
+- _"Impact of Organic Cation Passivation on Perovskites Thin Films"_  
+  **1st CMD-CINE Workshop, IQSC-USP** (2024) 
+- _"The Chemistry Behind the Synthesis of MAPbI3 Perovskites"_  
+  **QTNano Journal Club, IQSC-USP** (2024)
+- _"Role of Alkali Cations Passivation on Perovskites Thin Films"_  
+  **Materials Chemistry Research Group, UFSJ** (2024) 
+- _"Surface Passivation in Perovskite Materials: Ab initio Investigations"_  
+  **CINE Conference, UNICAMP** (2023)  
+- _"Energy Transfer from Tb3+ to Eu3+ in SiO2-TiO2"_  
+  **18th International Conference on Luminescence, Brazil** (2017)  
+
+---
+
+<h2>Industry Experience</h2>
+
+<!-- AMG Brazil -->
+<h3>AMG Brazil</h3>
+<p><strong>Chemical Process Intern</strong> | (2015-2018) | São João del Rei, Brazil</p>
+<ul>
+  <li>Performed fluoride and chloride analysis and elemental analysis using ICP;</li>
+  <li>Executed process enhancement tests and generated reports;</li>
+  <li>Led 5S program implementation, enhancing lab efficiency.</li>
+</ul>
+
+<hr>
+
+<!-- Resind LTDA -->
+<h3>Resind LTDA</h3>
+<p><strong>Chemical Technician</strong> | (2019-2020) | São João del Rei, Brazil</p>
+<ul>
+  <li>Oversaw quality tests for primary products, ensuring compliance with standards;</li>
+  <li>Conducted quantitative chemical analyses using X-ray techniques;</li>
+  <li>Maintained product excellence and reliability through comprehensive assessments.</li>
+</ul>
+
+ ---
 
 ## 🛠️ Technical Skills
 
@@ -180,22 +226,6 @@ _For a complete list of publications, visit my [Google Scholar](https://scholar.
     style="margin-right: 10px;" 
   />
  
-
----
-
-## 📢 Talks & Conferences
-- _"Metal Halides Perovskites for Optoelectronic: from Fundamental to Devices"_  
-  **CNRS School, France** (2024) 
-- _"The Chemistry Beyond Haber–Bosch Process"_  
-  **PechaKucha Seminar, IFSC–USP** (2024)  
-- _"Impact of Organic Cation Passivation on Perovskites Thin Films"_  
-  **1st CMD-CINE Workshop, IQSC-USP** (2024) 
-- _"The Chemistry Behind the Synthesis of MAPbI3 Perovskites"_  
-  **QTNano Journal Club, IQSC-USP** (2024) 
-- _"Surface Passivation in Perovskite Materials: Ab initio Investigations"_  
-  **CINE Conference, UNICAMP** (2023)  
-- _"Energy Transfer from Tb3+ to Eu3+ in SiO2-TiO2"_  
-  **18th International Conference on Luminescence, Brazil** (2017)  
 
 ---
 
