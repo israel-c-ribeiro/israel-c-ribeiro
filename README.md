@@ -75,7 +75,7 @@ Driven by curiosity and innovation, my interests include Materials Science, DFT,
 ## 🎓 Academic Background
 - **Ph.D. in Theoretical Physical Chemistry**  
   _University of São Paulo (USP), São Carlos, Brazil_ (2020–2025)  
-  **Thesis**: Atomic-scale Investigations on the Passivation of Ultrathin Layers of 2D Hybrid Perovskites (2020–2025)   
+  **Thesis**: Atomic-scale Investigations on the Passivation of Ultrathin Layers of 2D Hybrid Perovskites   
   **Research Advisor**: Prof. Juarez L. F. Da Silva  
 
 - **MBA in Data Science and Analytics**  
