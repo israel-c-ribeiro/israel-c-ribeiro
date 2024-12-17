@@ -69,6 +69,87 @@ Driven by curiosity and innovation, my interests include Materials Science, DFT,
 </p>
 
 
+---
+
+
+## 🛠️ Technical Skills
+
+- **Programming & Data Analytics**  
+  <img 
+    alt="Python" 
+    title="Python" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+    width="40px" 
+    style="margin-right: 10px;" 
+  />
+  <img 
+    alt="C" 
+    title="C Programming" 
+    src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" 
+    width="40px" 
+    style="margin-right: 10px;" 
+  />
+   <img 
+    alt="Spyder" 
+    title="Spyder" 
+    src="https://i0.wp.com/2.bp.blogspot.com/-Alklx2Guuz8/XJgQeQ6YCaI/AAAAAAAAK-U/RmQQyzY5oRI-e4qpXD1elxCyaO_RGRmHwCLcBGAs/s1600/1200px-Spyder_logo.svg.png?ssl=1" 
+    width="40px" 
+    style="margin-right: 10px;" 
+  />
+   <img 
+    alt="vscode" 
+    title="vscode" 
+    src="https://code.visualstudio.com/assets/images/code-stable.png" 
+    width="40px" 
+    style="margin-right: 10px;" 
+  />
+   <img 
+    alt="pycharm" 
+    title="pycharm" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" 
+    width="40px" 
+    style="margin-right: 10px;" 
+  />
+
+- **Computational Chemistry Tools**  
+  <img 
+    alt="VASP" 
+    title="VASP" 
+    src="https://www.vasp.at/images/logo.png" 
+    width="60px" 
+    style="margin-right: 10px;" 
+  />
+  <img 
+    alt="Quantum Espresso" 
+    title="Quantum Espresso" 
+    src="https://www.quantum-espresso.org/wp-content/uploads/2022/03/quantum_ogo_ok.png" 
+    width="100px" 
+    style="margin-right: 10px;" 
+  />
+  <img 
+    alt="Gaussian" 
+    title="Gaussian" 
+    src="https://software.sjtu.edu.cn/Assets/userfiles/images/Logo/Gaussian_logo_with_name-removebg-preview(1).png" 
+    width="70px" 
+    style="margin-right: 10px;" 
+  />
+
+- **Version Control & Collaboration**  
+  <img 
+    alt="Git" 
+    title="Git" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+    width="40px" 
+    style="margin-right: 10px;" 
+  />
+  <img 
+    alt="Overleaf" 
+    title="Overleaf" 
+    src="https://images.ctfassets.net/nrgyaltdicpt/6gsvc5Ogjmu04I4Miu0uGg/cb1d4391717d2ab8d5e42ede6fb0eef1/overleaf_wide_colour_light_bg.png" 
+    width="70px" 
+    style="margin-right: 10px;" 
+  />
+ 
 
 ---
 
@@ -163,87 +244,6 @@ _To download the presentations, visit my [ResearchGate](https://www.researchgate
 </ul>
 
  ---
-
-## 🛠️ Technical Skills
-
-- **Programming & Data Analytics**  
-  <img 
-    alt="Python" 
-    title="Python" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-    width="40px" 
-    style="margin-right: 10px;" 
-  />
-  <img 
-    alt="C" 
-    title="C Programming" 
-    src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" 
-    width="40px" 
-    style="margin-right: 10px;" 
-  />
-   <img 
-    alt="Spyder" 
-    title="Spyder" 
-    src="https://i0.wp.com/2.bp.blogspot.com/-Alklx2Guuz8/XJgQeQ6YCaI/AAAAAAAAK-U/RmQQyzY5oRI-e4qpXD1elxCyaO_RGRmHwCLcBGAs/s1600/1200px-Spyder_logo.svg.png?ssl=1" 
-    width="40px" 
-    style="margin-right: 10px;" 
-  />
-   <img 
-    alt="vscode" 
-    title="vscode" 
-    src="https://code.visualstudio.com/assets/images/code-stable.png" 
-    width="40px" 
-    style="margin-right: 10px;" 
-  />
-   <img 
-    alt="pycharm" 
-    title="pycharm" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" 
-    width="40px" 
-    style="margin-right: 10px;" 
-  />
-
-- **Computational Chemistry Tools**  
-  <img 
-    alt="VASP" 
-    title="VASP" 
-    src="https://www.vasp.at/images/logo.png" 
-    width="60px" 
-    style="margin-right: 10px;" 
-  />
-  <img 
-    alt="Quantum Espresso" 
-    title="Quantum Espresso" 
-    src="https://www.quantum-espresso.org/wp-content/uploads/2022/03/quantum_ogo_ok.png" 
-    width="100px" 
-    style="margin-right: 10px;" 
-  />
-  <img 
-    alt="Gaussian" 
-    title="Gaussian" 
-    src="https://software.sjtu.edu.cn/Assets/userfiles/images/Logo/Gaussian_logo_with_name-removebg-preview(1).png" 
-    width="70px" 
-    style="margin-right: 10px;" 
-  />
-
-- **Version Control & Collaboration**  
-  <img 
-    alt="Git" 
-    title="Git" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-    width="40px" 
-    style="margin-right: 10px;" 
-  />
-  <img 
-    alt="Overleaf" 
-    title="Overleaf" 
-    src="https://images.ctfassets.net/nrgyaltdicpt/6gsvc5Ogjmu04I4Miu0uGg/cb1d4391717d2ab8d5e42ede6fb0eef1/overleaf_wide_colour_light_bg.png" 
-    width="70px" 
-    style="margin-right: 10px;" 
-  />
- 
-
----
 
 ## 📈 GitHub Statistics
 
