@@ -1,3 +1,4 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=israel-c-ribeiro&color=0088CC&style=flat-square" alt="Visitor count" />
 
 <div style="display: flex; align-items: center; justify-content: space-between; width: 100%; padding: 0 10%; box-sizing: border-box;">
   <!-- Imagem do GIF do café à esquerda -->
@@ -5,12 +6,6 @@
 
   <!-- Imagem do texto de boas-vindas no centro -->
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🖖🏾;+Welcome+to+my+page!;" style="max-width: 100%; height: 70px; object-fit: contain;" />
-
-  <!-- Imagem à direita -->
-  <img src="https://github.com/user-attachments/assets/dfa99983-23ca-4bd8-ba2f-15cb9cad53ec" alt="right image" style="width: 100px; height: auto;" />
-</div>
-
-
 
 
 <!-- Centered Name -->
