@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=israel-c-ribeiro&color=blue&style=flat-square" alt="Visitor count" />
+<img align="right" src="https://komarev.com/ghpvc/?username=israel-c-ribeiro&color=0088CC&style=flat-square" alt="Visitor count" />
 
 <!-- Container que agrupa as imagens -->
 <div style="display: flex; align-items: center; justify-content: center;">
