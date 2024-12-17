@@ -3,10 +3,10 @@
 <!-- Container que agrupa as imagens -->
 <div style="display: flex; align-items: center; justify-content: center;">
   <!-- Imagem do GIF do café à esquerda -->
-  <img src="https://github.com/user-attachments/assets/29f6f379-7a7c-4600-9424-6cc4edaa48f8" alt="coffee" style="width: 200px; height: auto; margin-right: 20px;" />
+  <img src="https://github.com/user-attachments/assets/29f6f379-7a7c-4600-9424-6cc4edaa48f8" alt="coffee" style="width: 200px; height: auto; margin-right: 70px;" />
 
   <!-- Imagem do texto de boas-vindas -->
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🖖🏾;+Welcome+to+my+page!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=500&height=90&duration=4000&lines=Hi+There!+🖖🏾;+Welcome+to+my+page!;" />
 </div>
 
 
