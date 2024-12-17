@@ -1,4 +1,3 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=israel-c-ribeiro&color=0088CC&style=flat-square" alt="Visitor count" />
 
 <div style="display: flex; align-items: center; justify-content: space-between; width: 100%; padding: 0 10%; box-sizing: border-box;">
   <!-- Imagem do GIF do café à esquerda -->
