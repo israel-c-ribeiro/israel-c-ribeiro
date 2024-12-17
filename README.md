@@ -38,31 +38,39 @@ Driven by curiosity and innovation, my interests include Materials Science, DFT,
         <img 
             alt="gmail" 
             title="Contact me" 
-            src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail&style=for-the-badge&labelColor=F3240C"
+            src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail&style=for-the-badge&labelColor=FF7043&color=FF5722"
         /> 
     </a>
     <a href="https://www.linkedin.com/in/israel-ribeiro1/">
         <img 
             alt="Linkedin" 
             title="Linkedin" 
-            src="https://custom-icon-badges.demolab.com/badge/Linkedin-1E6AE1.svg?logo=linkedin&style=for-the-badge&logoColor=white&labelColor=1ECBE1"
+            src="https://custom-icon-badges.demolab.com/badge/Linkedin-1E6AE1.svg?logo=linkedin&style=for-the-badge&logoColor=ffffff&labelColor=0077B5&color=006C94"
         /> 
     </a> 
     <a href="https://scholar.google.com/citations?hl=en&user=GQugll8AAAAJ">
         <img 
-            alt="Artigos" 
+            alt="Google Scholar" 
             title="Google Scholar" 
-            src="https://custom-icon-badges.demolab.com/badge/Google-8B31CE.svg?logo=googlescholar&style=for-the-badge&logoColor=white&labelColor=CE31C3"
+            src="https://custom-icon-badges.demolab.com/badge/Google-8B31CE.svg?logo=googlescholar&style=for-the-badge&logoColor=ffffff&labelColor=4285F4&color=1C64F2"
         />
-        </a>
+    </a>
+    <a href="https://www.researchgate.net/profile/Israel-Ribeiro">
+        <img 
+            alt="ResearchGate" 
+            title="ResearchGate" 
+            src="https://custom-icon-badges.demolab.com/badge/ResearchGate-00ccbb.svg?logo=researchgate&style=for-the-badge&logoColor=ffffff&labelColor=00cc88&color=00bb66"
+        />
+    </a>
     <a href="https://github.com/israel-c-ribeiro?tab=followers">
         <img 
-            alt="Followers" 
+            alt="GitHub Followers" 
             title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/israel-c-ribeiro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white&cacheBuster=timestamp"
+            src="https://custom-icon-badges.demolab.com/github/followers/israel-c-ribeiro?color=24292F&labelColor=6e8ca2&style=for-the-badge&logo=github&label=Seguidores&logoColor=ffffff"
         />
     </a>
 </p>
+
 
 ---
 
