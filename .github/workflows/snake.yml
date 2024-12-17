@@ -28,7 +28,17 @@ jobs:
           echo "Listing files in the repository:"
           ls -la dist  # Lista arquivos no diretório dist para verificar se o snake.svg foi gerado
 
+      - name: Check if snake.svg was generated
+        id: check_file
+        run: |
+          if [ -f dist/snake.svg ]; then
+            echo "snake.svg file exists."
+          else
+            echo "snake.svg file does not exist." && exit 1
+          fi
+
       - name: Commit and Push SVG file
+        if: steps.check_file.outcome == 'success'  # Faz commit e push apenas se o arquivo existir
         run: |
           git config --global user.name "Your Name"  # Substitua com seu nome
           git config --global user.email "your-email@example.com"  # Substitua com seu e-mail
