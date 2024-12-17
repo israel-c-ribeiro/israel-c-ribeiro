@@ -30,7 +30,7 @@ Driven by curiosity and innovation, my interests include Materials Science, DFT,
 </details>
 
 ---
-<p align="left">
+<p align="center" style="display: flex; gap: 15px;">
     <a href="mailto:israelribeiroc7@gmail.com">
         <img 
             alt="gmail" 
@@ -67,6 +67,7 @@ Driven by curiosity and innovation, my interests include Materials Science, DFT,
         />
     </a>
 </p>
+
 
 
 ---
