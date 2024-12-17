@@ -259,7 +259,7 @@ _To download the presentations, visit my [ResearchGate](https://www.researchgate
   <img 
     alt="GitHub Stats" 
     height="150em" 
-    src="https://github-readme-stats.vercel.app/api?username=israel-c-ribeiro&show_icons=true&theme=gruvbox&include_all_commits=true&locale=en" 
+    src="https://github-readme-stats.vercel.app/api?username=israel-c-ribeiro&show_icons=true&theme=gruvbox&include_all_commits=true&locale=en&cache_bust=12345" 
   />
 <img 
   alt="Top Languages" 
