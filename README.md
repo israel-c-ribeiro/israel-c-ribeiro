@@ -89,9 +89,10 @@ Driven by curiosity and innovation, my interests include Materials Science, DFT,
 
 ## 🧪 Research Highlights
 
-- **2D Perovskites**: Investigating the structural, energetic, and optoelectronic properties of ultrathin organic-inorganic hybrid perovskites through DFT simulations.  
-- **Passivation Studies**: Examining single-atom metal and organic cations passivation effects on perovskite surfaces to improve stability and efficiency.  
-- **Film Thickness Analysis**: Unveiling the relationship between perovskites thin film thickness and material properties for photovoltaic applications.  
+- **2D Perovskites**: Investigating the structural, energetic, and optoelectronic properties of ultrathin organic-inorganic hybrid perovskites through DFT simulations.       
+- **Passivation Studies**: Examining the role of transition metal, alkali and organic cations passivation on perovskites surfaces.     
+- **Film Thickness Analysis**: Unveiling the relationship between perovskites thin film thickness and optoelectronic properties for photovoltaic applications.     
+- **Machine Learning**: The application of machine learning techniques and data science methodologies to predict and analyze the properties of semiconductor materials. 
 
 ### 📰 Selected Publications
 1. **Impact of Thin Film Thickness on the Structural, Energetic, and Optoelectronic Properties of Two-Dimensional Perovskites**  
