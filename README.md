@@ -1,16 +1,26 @@
+
+
+
 <img align="right" src="https://komarev.com/ghpvc/?username=israel-c-ribeiro&color=blue&style=flat-square" alt="Visitor count" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🖖🏾;+Welcome+to+my+page!;" />
-</h1>
+<!-- Container que agrupa as imagens -->
+<div style="display: flex; align-items: center;">
+  <!-- Imagem do GIF do café à esquerda -->
+  <img src="https://github.com/user-attachments/assets/29f6f379-7a7c-4600-9424-6cc4edaa48f8" alt="coffee" style="width: 250px; height: auto; margin-right: 250px;" />
+
+  <!-- Imagem do texto de boas-vindas -->
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🖖🏾;+Welcome+to+my+page!;" />
+</div>
+
 
 <!-- Centered Name -->
-<h1 align="center">Israel C. Ribeiro</h1>
+<h1 align="center" style="margin-bottom: 0;">Israel C. Ribeiro</h1>
 
 <!-- Centered Subtitle -->
-<p align="center">
+<p align="center" style="margin-top: 0; margin-bottom: 0;">
   <strong><code>Ph.D in Physical-Chemistry | Computational Materials Science</code></strong>
 </p>
+
 
 <details>
   <summary><strong>I'm passionate about...</strong><span style="color: red;">(click to expand)</span>
