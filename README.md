@@ -126,6 +126,20 @@ _For a complete list of publications, visit my [Google Scholar](https://scholar.
     width="40px" 
     style="margin-right: 10px;" 
   />
+   <img 
+    alt="Spyder" 
+    title="Spyder" 
+    src="https://i0.wp.com/2.bp.blogspot.com/-Alklx2Guuz8/XJgQeQ6YCaI/AAAAAAAAK-U/RmQQyzY5oRI-e4qpXD1elxCyaO_RGRmHwCLcBGAs/s1600/1200px-Spyder_logo.svg.png?ssl=1" 
+    width="40px" 
+    style="margin-right: 10px;" 
+  />
+   <img 
+    alt="vscode" 
+    title="vscode" 
+    src="https://code.visualstudio.com/assets/images/code-stable.png" 
+    width="40px" 
+    style="margin-right: 10px;" 
+  />
 
 - **Computational Chemistry Tools**  
   <img 
