@@ -2,7 +2,7 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between; width: 100%; padding: 0 10%; box-sizing: border-box;">
   <!-- Imagem do GIF do café à esquerda -->
-  <img src="https://github.com/user-attachments/assets/29f6f379-7a7c-4600-9424-6cc4edaa48f8" alt="coffee" style="width: 200px; height: auto;" />
+  <img src="https://github.com/user-attachments/assets/29f6f379-7a7c-4600-9424-6cc4edaa48f8" alt="coffee" style="width: 170px; height: auto;" />
 
   <!-- Imagem do texto de boas-vindas no centro -->
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🖖🏾;+Welcome+to+my+page!;" style="max-width: 100%; height: 70px; object-fit: contain;" />
