@@ -1,13 +1,16 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=israel-c-ribeiro&color=0088CC&style=flat-square" alt="Visitor count" />
 
-<!-- Container que agrupa as imagens -->
-<div style="display: flex; align-items: center; justify-content: center;">
+<div style="display: flex; align-items: center; justify-content: space-between; width: 100%; padding: 0 10%; box-sizing: border-box;">
   <!-- Imagem do GIF do café à esquerda -->
-  <img src="https://github.com/user-attachments/assets/29f6f379-7a7c-4600-9424-6cc4edaa48f8" alt="coffee" style="width: 170px; height: auto; margin-right: 70px;" />
+  <img src="https://github.com/user-attachments/assets/29f6f379-7a7c-4600-9424-6cc4edaa48f8" alt="coffee" style="width: 200px; height: auto;" />
 
-  <!-- Imagem do texto de boas-vindas -->
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=500&height=90&duration=4000&lines=Hi+There!+🖖🏾;+Welcome+to+my+page!;" />
+  <!-- Imagem do texto de boas-vindas no centro -->
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🖖🏾;+Welcome+to+my+page!;" style="max-width: 100%; height: 70px; object-fit: contain;" />
+
+  <!-- Imagem à direita -->
+  <img src="https://github.com/user-attachments/assets/dfa99983-23ca-4bd8-ba2f-15cb9cad53ec" alt="right image" style="width: 100px; height: auto;" />
 </div>
+
 
 
 
