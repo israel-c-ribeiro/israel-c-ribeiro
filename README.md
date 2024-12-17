@@ -63,7 +63,7 @@ Driven by curiosity and innovation, my interests include Materials Science, DFT,
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/israel-c-ribeiro?color=24292F&labelColor=24292F&style=for-the-badge&logo=github&label=Follow&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/israel-c-ribeiro?color=24292F&labelColor=24292F&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
 </p>
