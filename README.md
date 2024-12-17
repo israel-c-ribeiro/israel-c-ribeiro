@@ -58,12 +58,12 @@ Driven by curiosity and innovation, my interests include Materials Science, DFT,
             title="ResearchGate" 
             src="https://custom-icon-badges.demolab.com/badge/ResearchGate-00ccbb.svg?logo=researchgate&style=for-the-badge&logoColor=ffffff&labelColor=00cc88&color=00bb66"
         />
-    </a>
+  </a>
     <a href="https://github.com/israel-c-ribeiro?tab=followers">
         <img 
-            alt="GitHub Followers" 
-            title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/israel-c-ribeiro?color=24292F&labelColor=6e8ca2&style=for-the-badge&logo=github&label=Followers&logoColor=ffffff"
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/israel-c-ribeiro?color=24292F&labelColor=24292F&style=for-the-badge&logo=github&label=Follow&logoColor=white"
         />
     </a>
 </p>
