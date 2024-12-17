@@ -248,10 +248,11 @@ _To download the presentations, visit my [ResearchGate](https://www.researchgate
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-   <br/><br/><br/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/israel-c-ribeiro/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
 </div>
 <hr/>
+
 
 <p align="center">
   <img 
