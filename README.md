@@ -127,7 +127,9 @@ _For a complete list of publications, visit my [Google Scholar](https://scholar.
 - _"Surface Passivation in Perovskite Materials: Ab initio Investigations"_  
   **CINE Conference, UNICAMP** (2023)  
 - _"Energy Transfer from Tb3+ to Eu3+ in SiO2-TiO2"_  
-  **18th International Conference on Luminescence, Brazil** (2017)  
+  **18th International Conference on Luminescence, Brazil** (2017)
+
+_To download the presentations, visit my [ResearchGate](https://www.researchgate.net/profile/Israel-Ribeiro)._ 
 
 ---
 
