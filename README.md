@@ -143,7 +143,7 @@ _To download the presentations, visit my [ResearchGate](https://www.researchgate
 <h2>👨🏾‍🔬 Industry Experience</h2>
 
 <!-- AMG Brazil -->
-<h3>AMG Brazil</h3>
+[AMG Brazil](https://amg-br.com/pt/)
 <p><strong>Chemical Process Intern</strong> | (2015-2018) | São João del Rei, Brazil</p>
 <ul>
   <li>Performed fluoride and chloride analysis and elemental analysis using ICP;</li>
@@ -154,7 +154,7 @@ _To download the presentations, visit my [ResearchGate](https://www.researchgate
 <hr>
 
 <!-- Resind LTDA -->
-<h3>Resind LTDA</h3>
+[Resind LTDA](https://resind.com.br/)
 <p><strong>Chemical Technician</strong> | (2019-2020) | São João del Rei, Brazil</p>
 <ul>
   <li>Oversaw quality tests for primary products, ensuring compliance with standards;</li>
@@ -192,6 +192,13 @@ _To download the presentations, visit my [ResearchGate](https://www.researchgate
     alt="vscode" 
     title="vscode" 
     src="https://code.visualstudio.com/assets/images/code-stable.png" 
+    width="40px" 
+    style="margin-right: 10px;" 
+  />
+   <img 
+    alt="pycharm" 
+    title="pycharm" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" 
     width="40px" 
     style="margin-right: 10px;" 
   />
