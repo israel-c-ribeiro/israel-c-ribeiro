@@ -49,7 +49,7 @@ Driven by curiosity and innovation, my interests include Materials Science, DFT,
         <img 
             alt="Google Scholar" 
             title="Google Scholar" 
-            src="https://custom-icon-badges.demolab.com/badge/Google-8B31CE.svg?logo=googlescholar&style=for-the-badge&logoColor=ffffff&labelColor=4285F4&color=1C64F2"
+            src="https://custom-icon-badges.demolab.com/badge/Scholar-8B31CE.svg?logo=googlescholar&style=for-the-badge&logoColor=ffffff&labelColor=4285F4&color=1C64F2"
         />
     </a>
     <a href="https://www.researchgate.net/profile/Israel-Ribeiro">
