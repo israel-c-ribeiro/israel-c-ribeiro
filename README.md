@@ -176,9 +176,9 @@ Driven by curiosity and innovation, my interests include Materials Science, DFT,
 
 ### 📰 Selected Publications
 1. **Impact of Thin Film Thickness on the Structural, Energetic, and Optoelectronic Properties of Two-Dimensional Perovskites**  
-   _Submitted to ACS Applied Energy Materials (2024)_    
+   _ACS Applied Energy Materials (2024)_    
     Authors: **Israel C. Ribeiro**, FD Picoli, PIV Moraes, AFV Fonseca, LN Oliveira, AF Nogueira and JLF Da Silva.       
-      DOI: [In progress](https://example.com)  
+      DOI: [10.1021/acsaem.4c02800](https://pubs.acs.org/doi/10.1021/acsaem.4c02800)  
    
 2. **Unveiling the Impact of Organic Cation Passivation on Structural and Optoelectronic Properties of Two-Dimensional Perovskites Thin Films**  
    _Applied Surface Science (2024)_      
