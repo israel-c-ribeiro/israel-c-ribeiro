@@ -159,7 +159,9 @@ Driven by curiosity and innovation, my interests include Materials Science, DFT,
 
 - **MBA in Data Science and Analytics**  
   _University of São Paulo (USP), Brazil_ (2024–2026)  
-
+  **Thesis**: Unsupervised Learning for Perovskite Solar Cells: Discovering Hidden Patterns in Photovoltaic Data  
+  **Research Advisor**: Prof. Gabrielle Lombardi
+  
 - **B.Sc. in Chemistry**  
   _Federal University of São João del Rei (UFSJ), Brazil_ (2015–2020)  
   **Thesis**: Theoretical Investigation of GaN in the Haeckelita 8-4 Structure    
