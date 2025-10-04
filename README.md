@@ -18,7 +18,7 @@
 
 
 <details>
-  <summary><strong>I'm passionate about...</strong><span style="color: red;">(click to expand)</span>
+  <summary><strong>About me...</strong><span style="color: red;">(click to expand)</span>
   </summary>
   <p>
 I am a Computational Materials Scientist and Postdoctoral Researcher at the University of Mons (UMONS), passionate about bridging chemistry, materials science, and data analytics. I hold a Ph.D. in Theoretical Physical Chemistry from the University of São Paulo (USP), where I investigated surface passivation on perovskite thin films using Density Functional Theory (DFT) to uncover their structural, energetic, and optoelectronic properties.
