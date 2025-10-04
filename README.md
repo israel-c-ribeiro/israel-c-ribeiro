@@ -21,11 +21,13 @@
   <summary><strong>I'm passionate about...</strong><span style="color: red;">(click to expand)</span>
   </summary>
   <p>
-   I'm passionate about the intersection of chemistry, materials science, and data analytics. I am Ph.D in Theoretical Physical Chemistry from the São Carlos Institute of Chemistry (IQSC), University of São Paulo (USP). My research explores 2D perovskite thin films through Density Functional Theory (DFT), focusing on their structural, energetic, and optoelectronic properties. Alongside my academic endeavors, I have served as a teaching assistant for multiple chemistry courses at IQSC. I am also enhancing my skill set with a MBA in Data Science and Analytics at USP, specializing in Machine Learning applications to materials science.
+I am a Computational Materials Scientist and Postdoctoral Researcher at the University of Mons (UMONS), passionate about bridging chemistry, materials science, and data analytics. I hold a Ph.D. in Theoretical Physical Chemistry from the University of São Paulo (USP), where I investigated 2D perovskite thin films using Density Functional Theory (DFT) to uncover their structural, energetic, and optoelectronic properties.
 
-I hold a Bachelor's Degree in Chemistry from the Federal University of São João del Rei (UFSJ). During my undergraduate studies, I developed a strong foundation through tutoring in Physics and Chemistry and contributed as a CNPq research fellow in projects spanning photoluminescent inorganic materials and theoretical/computational chemistry. My hands-on experience extends to the industrial sector, where I worked in R&D at AMG-Br and as a chemical technician at Resind Indústria e Comércio Ltda., both within the mineralogy field. Additionally, I volunteered as an English teacher at São Marcos Language School for three years, honing my communication and leadership skills.
+I also hold an MBA in Data Science and Analytics from USP, focusing on Machine Learning applications in materials research, and a B.Sc. in Chemistry from the Federal University of São João del Rei (UFSJ). My background combines academic and industrial experience, including R&D work at AMG-Br and laboratory operations in the mineralogy sector at Resind Indústria e Comércio Ltda.
 
-Driven by curiosity and innovation, my interests include Materials Science, DFT, Solid-State Chemistry, Inorganic Physical Chemistry, Machine Learning, and Quantum Chemistry.
+Previously, I served as a teaching assistant for several chemistry courses and volunteered as an English teacher for three years, strengthening my communication and leadership skills.
+
+Driven by curiosity and innovation, my research interests include Electronic Structure Calculations, Materials Informatics, Machine Learning, Solid-State Chemistry, and Quantum Materials.
   </p>
 </details>
 
@@ -225,7 +227,7 @@ _To download the presentations, visit my [ResearchGate](https://www.researchgate
 
 <!-- MONS -->
 [University of Mons](https://web.umons.ac.be/en/)
-<p><strong>Postdoc Fellow</strong> | (2026 - current) | São João del Rei, Brazil</p>
+<p><strong>Postdoc Fellow</strong> | (2026 - current) | Mons, Belgium</p>
 <ul>
   <li>Electronic Calculations;</li>
   <li>ML models for materials.</li>
