@@ -171,6 +171,20 @@ Interests: Electronic Structure Calculations · Machine Learning · Materials Sc
 
 ---
 
+<h2>👨🏾‍🔬 Post-Doctoral Experience</h2>
+
+<!-- MONS -->
+[University of Mons](https://web.umons.ac.be/en/)
+<p><strong>Postdoc Fellow</strong> | (2026 - current) | Mons, Belgium</p>
+<ul>
+  <li>Electronic Calculations;</li>
+  <li>ML models for materials.</li>
+</ul>
+
+<hr>
+
+---
+
 ## 🧪 Research Highlights
 
 - **2D Perovskites**: Investigating the structural, energetic, and optoelectronic properties of ultrathin organic-inorganic hybrid perovskites through DFT simulations.       
@@ -220,20 +234,6 @@ _For a complete list of publications, visit my [Google Scholar](https://scholar.
   **18th International Conference on Luminescence, Brazil** (2017)
 
 _To download the presentations, visit my [ResearchGate](https://www.researchgate.net/profile/Israel-Ribeiro)._ 
-
----
-
-<h2>👨🏾‍🔬 Post-Doctoral Experience</h2>
-
-<!-- MONS -->
-[University of Mons](https://web.umons.ac.be/en/)
-<p><strong>Postdoc Fellow</strong> | (2026 - current) | Mons, Belgium</p>
-<ul>
-  <li>Electronic Calculations;</li>
-  <li>ML models for materials.</li>
-</ul>
-
-<hr>
 
 ---
 
