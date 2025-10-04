@@ -9,7 +9,7 @@
 
 
 <!-- Centered Name -->
-<h1 align="center" style="margin-bottom: 0;">Israel C. Ribeiro, Ph.D</h1>
+<h1 align="center" style="margin-bottom: 0;">Israel C. Ribeiro, Ph.D.</h1>
 
 <!-- Centered Subtitle -->
 <p align="center" style="margin-top: 0; margin-bottom: 0;">
