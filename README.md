@@ -21,13 +21,13 @@
   <summary><strong>I'm passionate about...</strong><span style="color: red;">(click to expand)</span>
   </summary>
   <p>
-I am a Computational Materials Scientist and Postdoctoral Researcher at the University of Mons (UMONS), passionate about bridging chemistry, materials science, and data analytics. I hold a Ph.D. in Theoretical Physical Chemistry from the University of São Paulo (USP), where I investigated 2D perovskite thin films using Density Functional Theory (DFT) to uncover their structural, energetic, and optoelectronic properties.
+I am a Computational Materials Scientist and Postdoctoral Researcher at the University of Mons (UMONS), passionate about bridging chemistry, materials science, and data analytics. I hold a Ph.D. in Theoretical Physical Chemistry from the University of São Paulo (USP), where I investigated surface passivation on perovskite thin films using Density Functional Theory (DFT) to uncover their structural, energetic, and optoelectronic properties.
 
 I also hold an MBA in Data Science and Analytics from USP, focusing on Machine Learning applications in materials research, and a B.Sc. in Chemistry from the Federal University of São João del Rei (UFSJ). My background combines academic and industrial experience, including R&D work at AMG-Br and laboratory operations in the mineralogy sector at Resind Indústria e Comércio Ltda.
 
 Previously, I served as a teaching assistant for several chemistry courses and volunteered as an English teacher for three years, strengthening my communication and leadership skills.
 
-Driven by curiosity and innovation, my research interests include Electronic Structure Calculations, Materials Informatics, Machine Learning, Solid-State Chemistry, and Quantum Materials.
+Interests: Electronic Structure Calculations · Machine Learning · Materials Science · Solid-State Chemistry · Quantum Materials
   </p>
 </details>
 
