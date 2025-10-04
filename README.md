@@ -221,7 +221,21 @@ _To download the presentations, visit my [ResearchGate](https://www.researchgate
 
 ---
 
-<h2>👨🏾‍🔬 Industry Experience</h2>
+<h2>👨🏾‍🔬 Post-Doctoral Experience</h2>
+
+<!-- MONS -->
+[University of Mons](https://web.umons.ac.be/en/)
+<p><strong>Postdoc Fellow</strong> | (2026 - current) | São João del Rei, Brazil</p>
+<ul>
+  <li>Electronic Calculations;</li>
+  <li>ML models for materials.</li>
+</ul>
+
+<hr>
+
+---
+
+<h2>👨🏾‍🏭 Industry Experience</h2>
 
 <!-- AMG Brazil -->
 [AMG Brazil](https://amg-br.com/pt/)
