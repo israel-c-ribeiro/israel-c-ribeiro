@@ -91,6 +91,17 @@ Master Inc., a small scientific-consulting venture.
 
 ---
 
+## ◆ Open-source tools
+
+| Repository | What it does |
+|:---|:---|
+| [**mace_gui_cmn**](https://github.com/israel-c-ribeiro/mace_gui_cmn) | Browser GUI for MACE machine-learning potentials: relaxations, MD, equations of state, batch screening and ready-to-submit HPC bundles. |
+| [**VASP_tools**](https://github.com/israel-c-ribeiro/VASP_tools) | VASP post-processing written as tutorials: vacuum-referenced band alignment, LOCPOT profiles, run diagnostics, selective-dynamics checks, whole-molecule slabs and hybrid-functional SCF rescue. |
+| [**hpc_slurm_toolkit**](https://github.com/israel-c-ribeiro/hpc_slurm_toolkit) | Slurm job templates, batch set-up of run folders, campaign status and resumable data transfer for DFT campaigns. |
+| [**materials_data_toolkit**](https://github.com/israel-c-ribeiro/materials_data_toolkit) | Honest statistics for small materials datasets (bootstrap CIs, FDR, Boltzmann averages), representative-structure selection and journal-ready figures, with executed tutorial notebooks. |
+
+---
+
 ## ◆ Selected publications
 
 | Year | Paper | Venue |
